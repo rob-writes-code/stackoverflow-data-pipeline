@@ -2,7 +2,7 @@
 
 In this project, I created a data pipeline for Stack Overflow.
 
-An overview of the pipeline:
+Please see below for an overview of the pipeline:
 
 1. Data is extracted from a database held on the AWS RDS Cloud service.
 2. Data is processed using Apache Airflow, running on an AWS EC2 instance.
