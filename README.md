@@ -1,6 +1,6 @@
-# Stackoverflow Data Pipeline
+# Stack Overflow Data Pipeline
 
-In this project, I created a pipeline for data from Stack Overflow.
+In this project, I created a data pipeline for Stack Overflow.
 
 An overview of the pipeline:
 
