@@ -13,7 +13,7 @@ With regard to the dataset, it is an open-source archive of Stack Overflow conte
 
 In this project, I use a section of the dataset which amounts to approximately 55 million rows.
 
-For a step-by-step walkthrough of the project, please see my Jupyter notebook, available here.
+For a step-by-step walkthrough of the project, please see my Jupyter notebook, available [here](https://github.com/rob-writes-code/stackoverflow-data-pipeline/blob/main/notebooks/stackoverflow_pipeline.ipynb).
 
 <hr>
 
