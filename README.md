@@ -22,3 +22,6 @@ https://www.kaggle.com/datasets/stackoverflow/stackoverflow
 
 A breakdown of the database schema can be accessed here:
 https://sedeschema.github.io/
+
+<hr>
+This project is licensed under MIT.
